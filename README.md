@@ -117,6 +117,7 @@ Course program for spring 2024
 
 Current:
 - Pavel Mazaev - VAD, SED
+- Aman Syayfetdinov - VAD
 - Alex Rak - spotter, biometry
 - Daniil Volgin - ASR
 - Dzmitry Soupel - ASR
